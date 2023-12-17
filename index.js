@@ -1,1 +1,1 @@
-console.log("Olá mundão javaCript")
+console.log("Olá mundão javaScript")
